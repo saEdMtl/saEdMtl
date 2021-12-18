@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @saEdMtl(Saeed Motallebi).
-- 👀 I’m interested in web design.
-- 📫 How to reach me +989012993631 or s.motallebi2001@gmail.com
-- In this time I'm Working with Html , Css , Bootstrap , Javascript , Jquery , Illustrator and Git in my projects but I'm always looking for new thing to Upgrade my abilities ;)
-<!---
-saEdMtl/saEdMtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Saeed Motallebi           Iran , Tehran
+Front End Developer       +989012993631 , s.motallebi2001@gamail.com
+Skills : Html&Css , Bootstrap , Javascript , Jquery , Git.
+Education : Studying computer engineering in university.
+And you can see my projects here in github.
