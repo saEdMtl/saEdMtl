@@ -4,5 +4,5 @@
 - +989012993631 , s.motallebi2001@gamail.com     
 - Skills : Html&Css , Bootstrap , Javascript , Jquery , Git.
 - Education : Studying computer engineering in university.
-- have a certificate of Javascript & Jquery from Tehran Technical Complex
+- Have a certificate of Javascript & Jquery from Tehran Technical Complex
 - And you can see my projects here in github.
